@@ -1,0 +1,52 @@
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.card {
+    border-style: solid;
+    border-color: lightgray;
+    border-width: thin;
+    margin: 0.5px;
+    padding: 10px;
+    width: 320px;
+    max-width: 320px;
+    box-shadow: 5px 5px lightgray;
+}
+
+.info {
+    border-style: solid;
+    width: 300px;
+    border-color: lightgray;
+    border-width: thin;
+    padding: 10px;
+    margin: 0.5px;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 300px;
+    max-width: 300px;
+    border-width: thin;
+    border-color: lightgray;
+    border-style: solid;
+    padding: 10px;
+}
+
+.left {
+    text-indent: -40px;
+}
+
+body {
+    background-color: tan;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
